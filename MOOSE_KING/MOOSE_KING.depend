@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423680766 source:c:\users\zach\documents\of\apps\moose-king\moose-king\moose_king\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+
